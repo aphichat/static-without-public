@@ -1,0 +1,1 @@
+# static-without-public
